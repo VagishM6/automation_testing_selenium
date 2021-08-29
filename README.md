@@ -4,4 +4,4 @@ This program uses selenium library to automate clicks and browser function using
 ### Requirements
 1. selenium
 > pip install selenium
-2. Driver for chrome: [https://sites.google.com/a/chromium.org/chromedriver/downloads]
+2. Drivers for chrome: [https://sites.google.com/a/chromium.org/chromedriver/downloads]
